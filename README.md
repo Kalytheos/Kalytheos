@@ -2,7 +2,7 @@
 # Hi there, I'm Dorian 👋
 
 <div align="center">
-  <img src="AAGLC.jpg" alt="Profile Banner" width="80%" height="500" style="object-fit: cover;">
+  <img src="AAGLC.jpg" alt="Profile Banner" width="60%" height="500" style="object-fit: cover;">
 </div>
 
 <h3 align="center" style="color:#6e5494;font-family:monospace;">✨ art through code ✨</h3>
@@ -55,6 +55,3 @@
 
 ---
 
-<div align="center">
-  <i>⭐️ From [Kalytheos](https://github.com/Kalytheos)</i>
-</div>
