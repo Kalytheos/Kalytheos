@@ -19,14 +19,14 @@
 - 🛜 Fascinated by interconnectivity, networking, and distributed systems
 - 💡 I believe in the intersection of creativity, security, and technology
 - 🤝 I’m available for freelancing.
-- 🔭 I’m currently Working on <a href="https://github.com/Kalytheos/MyDots" target="blank">my Dotfiles</a>
+- 🔭 I’m currently Working on my <a href="https://github.com/Kalytheos/MyDots" target="blank">Dotfiles</a>
 
 ---
 
 ## 🛠️ Languages and Tools
 
 <br>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kalytheos&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" />
+  <img align="left" vertical-align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kalytheos&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" />
   <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
 
 <p align="center">
@@ -58,12 +58,13 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kalytheos&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kalytheos&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kalytheos&show_icons=true&heme=dracula&background=1E2B3C&border=B2E0FF&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNums=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF&locale=en" alt="GitHub Stats" />
 </div>
 
 ---
 
+## 🐍 Snake Eating my Contributions Graph
+
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
