@@ -1,4 +1,3 @@
-
 <h1 align="center">!Hello World! <br><br> I am Dorian 👋</h1>
 <div align="center">
   <img src="AAGLC.jpg" alt="Profile Banner" width="60%" height="400" style="object-fit: cover;">
