@@ -3,8 +3,8 @@
   <img src="AAGLC.jpg" alt="Profile Banner" width="60%" height="400" style="object-fit: cover;">
 </div>
 
-<h3 align="center" style="color:#6e5494;font-family:monospace;">✨ art through code ✨</h3>
-
+<h2 align="center" style="color:#6e5494;font-family:monospace;">[ art through code ]</h2>
+<br>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Kalytheos&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
