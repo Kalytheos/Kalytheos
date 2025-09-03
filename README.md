@@ -26,7 +26,7 @@
 ## 🛠️ Languages and Tools
 
 <br>
-  <img align="left" vertical-align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kalytheos&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" />
+  <img align="left" vertical-align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kalytheos&show_icons=true&theme=github_dark&locale=en" alt="Top Languages" />
   <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
 
 <p align="center">
@@ -51,15 +51,17 @@
 </p>
 
 
-<br><br>
+<br><br><br><br>
 
 ---
 
 ## 📊 GitHub Stats
 
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kalytheos&show_icons=true&heme=dracula&background=1E2B3C&border=B2E0FF&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNums=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kalytheos&show_icons=true&theme=aura&locale=en" alt="GitHub Stats" />
 </div>
+
 
 ---
 
