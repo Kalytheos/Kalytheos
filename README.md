@@ -2,7 +2,7 @@
 # Hi there, I'm Dorian 👋
 
 <div align="center">
-  <img src="README.jpg" alt="Profile Banner" width="60%" height="200" style="object-fit: cover;">
+  <img src="README.jpg" alt="Profile Banner" width="60%" height="500" style="object-fit: cover;">
 </div>
 
 <h3 align="center" style="color:#6e5494;font-family:monospace;">✨ art through code ✨</h3>
@@ -15,10 +15,10 @@
 
 ## 🚀 About Me
 
-- � Linux enthusiast and Arch user, passionate about customizing environments with Hyprland
-- 🔒 Cybersecurity advocate exploring the depths of digital security
-- � Fascinated by interconnectivity, networking, and distributed systems
 - 🧮 Algorithm enthusiast who loves solving complex computational problems
+- 🖥️ Linux enthusiast and Arch user, passionate about customizing environments with Hyprland
+- 🔒 Cybersecurity advocate exploring the depths of digital security
+- 🛜 Fascinated by interconnectivity, networking, and distributed systems
 - 💡 I believe in the intersection of creativity, security, and technology
 - 📫 How to reach me: **[Your Email]**
 
@@ -52,22 +52,6 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kalytheos&theme=dark" alt="GitHub Streak" />
 </div>
-
----
-
-## 🤝 Connect with me
-
-<p align="center">
-  <a href="https://linkedin.com/in/your-profile" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-  </a>
-  <a href="https://twitter.com/your-handle" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" />
-  </a>
-  <a href="mailto:your-email@example.com" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="email" height="30" width="40" />
-  </a>
-</p>
 
 ---
 
