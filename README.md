@@ -20,7 +20,6 @@
 - 🔒 Cybersecurity advocate exploring the depths of digital security
 - 🛜 Fascinated by interconnectivity, networking, and distributed systems
 - 💡 I believe in the intersection of creativity, security, and technology
-- 📫 How to reach me: **[Your Email]**
 
 ---
 
