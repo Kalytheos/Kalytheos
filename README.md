@@ -1,8 +1,9 @@
-<div align="center">
-  <img src="README.jpg" alt="Profile Banner" width="100%" height="200" style="object-fit: cover;">
-</div>
 
 # Hi there, I'm Dorian 👋
+
+<div align="center">
+  <img src="README.jpg" alt="Profile Banner" width="60%" height="200" style="object-fit: cover;">
+</div>
 
 <h3 align="center" style="color:#6e5494;font-family:monospace;">✨ art through code ✨</h3>
 
