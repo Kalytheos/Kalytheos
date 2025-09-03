@@ -1,4 +1,4 @@
-<h1 align="center">!Hello World! <br><br> I am Dorian 👋</h1>
+<h1 align="center">! Hello World ! <br><br> I am Dorian 👋</h1>
 <div align="center">
   <img src="AAGLC.jpg" alt="Profile Banner" width="60%" height="400" style="object-fit: cover;">
 </div>
@@ -10,7 +10,6 @@
 </p>
 
 ---
-
 ## 🚀 About Me
 
 - 🧮 Algorithm enthusiast who loves solving complex computational problems
@@ -70,3 +69,5 @@
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
+
+<img align="center" src="lvop.jpg" height="120" width="600">
