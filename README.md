@@ -70,4 +70,7 @@
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
 
-<img align="center" src="lvop.jpg" height="120" width="600">
+---
+<p align="center">
+<img src="lvop.jpg" height="600" width="200">
+</p>
