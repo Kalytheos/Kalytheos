@@ -19,7 +19,7 @@
 - 🛜 Fascinated by interconnectivity, networking, and distributed systems
 - 💡 I believe in the intersection of creativity, security, and technology
 - 🤝 I’m available for freelancing.
-- 🔭 I’m currently Working on <a href="https://github.com/Kalytheos/Huffman-Compressor" target="blank">Huffman Compressor</a>
+- 🔭 I’m currently Working on <a href="https://github.com/Kalytheos/MyDots" target="blank">my Dotfiles</a>
 
 ---
 
