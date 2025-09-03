@@ -29,7 +29,7 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css/css-original-wordmark.svg" alt="css" width="40" height="40"/>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html/html-original-wordmark.svg" alt="html" width="40" height="40"/>
 </p>
 
