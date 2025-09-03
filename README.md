@@ -1,5 +1,5 @@
 
-<h1 align="center">!Hello World! <br><br> I'm Dorian👋</h1>
+<h1 align="center">!Hello World! <br><br> I am Dorian 👋</h1>
 <div align="center">
   <img src="AAGLC.jpg" alt="Profile Banner" width="60%" height="400" style="object-fit: cover;">
 </div>
@@ -24,11 +24,11 @@
 
 ## 🛠️ Languages and Tools
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kalytheos&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
@@ -38,6 +38,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="vim" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
 </p>
+
+<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 ---
 
