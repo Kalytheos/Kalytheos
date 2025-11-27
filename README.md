@@ -62,6 +62,7 @@
 </div>
 
 
+<!--
 ---
 
 ## 🐍 Snake Eating my Contributions Graph
@@ -74,3 +75,4 @@
 <p align="center">
 <img src="lvop.jpg" height="600" width="200">
 </p>
+-->
