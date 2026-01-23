@@ -18,7 +18,7 @@
 - 🛜 Fascinated by interconnectivity, networking, and distributed systems
 - 💡 I believe in the intersection of creativity, security, and technology
 - 🤝 I’m available for freelancing.
-- 🔭 I’m currently Working on my <a href="https://github.com/Kalytheos/AI_Car" target="blank">AI CAR</a>
+- 🔭 I’m currently Working on <a href="https://github.com/Kalytheos/wallpin" target="blank">Wallpin</a>
 
 ---
 
